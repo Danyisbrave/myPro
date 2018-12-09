@@ -1,14 +1,13 @@
 from keras.models import Sequential
 from tensorflow import python_io
 import tensorflow as tf
-import numpy as np
+import keras.backend.tensorflow_backend as KTF
 
 from keras.layers import Conv2D, MaxPooling2D, Flatten, Convolution2D
 from keras.layers import Dropout, Dense
 
-from keras.losses import categorical_crossentropy
-from tensorflow.python.estimator import keras
 from kerasTest import dataProcess
+KTF.set_session(tf.Session(config=tf.ConfigProto(device_count={'gpu':0})))
 
 python_io.tf_record_iterator('rnn_tutorrial_data/eval.tfrecord-00000-of-00010')
 
@@ -50,7 +49,7 @@ model.add(Dense(units=num_classes, activation='softmax'))
 #               optimizer=keras.optimizers.Adadelta(),
 #               metrics=['top_k_categorical_accuracy'])
 model.compile(loss='categorical_crossentropy',
-              optimizer=tf.train.AdamOptimizer(),
+              optimizer=tf.train.Adadelta(),
               metrics=['top_k_categorical_accuracy'])
 
 model.fit(x=x_train, y=y_train, batch_size=batch_size, epochs=epochs, verbose=1)
