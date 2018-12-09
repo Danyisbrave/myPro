@@ -1,0 +1,349 @@
+C:\Users\memor\AppData\Local\Programs\Python\Python36\python.exe D:/6.PyProject/drawSomething/kerasTest/kerasModel.py
+Using TensorFlow backend.
+2018-12-10 01:20:40.004521: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+D:\迅雷下载\npy\aircraft carrier.npy success!
+D:\迅雷下载\npy\airplane.npy success!
+D:\迅雷下载\npy\alarm clock.npy success!
+D:\迅雷下载\npy\ambulance.npy success!
+D:\迅雷下载\npy\angel.npy success!
+D:\迅雷下载\npy\animal migration.npy success!
+D:\迅雷下载\npy\ant.npy success!
+D:\迅雷下载\npy\anvil.npy success!
+D:\迅雷下载\npy\apple.npy success!
+D:\迅雷下载\npy\arm.npy success!
+D:\迅雷下载\npy\asparagus.npy success!
+D:\迅雷下载\npy\axe.npy success!
+D:\迅雷下载\npy\backpack.npy success!
+D:\迅雷下载\npy\banana.npy success!
+D:\迅雷下载\npy\bandage.npy success!
+D:\迅雷下载\npy\barn.npy success!
+D:\迅雷下载\npy\baseball bat.npy success!
+D:\迅雷下载\npy\baseball.npy success!
+D:\迅雷下载\npy\basket.npy success!
+D:\迅雷下载\npy\basketball.npy success!
+D:\迅雷下载\npy\bat.npy success!
+D:\迅雷下载\npy\bathtub.npy success!
+D:\迅雷下载\npy\beach.npy success!
+D:\迅雷下载\npy\bear.npy success!
+D:\迅雷下载\npy\beard.npy success!
+D:\迅雷下载\npy\bed.npy success!
+D:\迅雷下载\npy\bee.npy success!
+D:\迅雷下载\npy\belt.npy success!
+D:\迅雷下载\npy\bench.npy success!
+D:\迅雷下载\npy\bicycle.npy success!
+D:\迅雷下载\npy\binoculars.npy success!
+D:\迅雷下载\npy\bird.npy success!
+D:\迅雷下载\npy\birthday cake.npy success!
+D:\迅雷下载\npy\blackberry.npy success!
+D:\迅雷下载\npy\blueberry.npy success!
+D:\迅雷下载\npy\book.npy success!
+D:\迅雷下载\npy\boomerang.npy success!
+D:\迅雷下载\npy\bottlecap.npy success!
+D:\迅雷下载\npy\bowtie.npy success!
+D:\迅雷下载\npy\bracelet.npy success!
+D:\迅雷下载\npy\brain.npy success!
+D:\迅雷下载\npy\bread.npy success!
+D:\迅雷下载\npy\bridge.npy success!
+D:\迅雷下载\npy\broccoli.npy success!
+D:\迅雷下载\npy\broom.npy success!
+D:\迅雷下载\npy\bucket.npy success!
+D:\迅雷下载\npy\bulldozer.npy success!
+D:\迅雷下载\npy\bus.npy success!
+D:\迅雷下载\npy\bush.npy success!
+D:\迅雷下载\npy\butterfly.npy success!
+D:\迅雷下载\npy\cactus.npy success!
+D:\迅雷下载\npy\cake.npy success!
+D:\迅雷下载\npy\calculator.npy success!
+D:\迅雷下载\npy\calendar.npy success!
+D:\迅雷下载\npy\camel.npy success!
+D:\迅雷下载\npy\camera.npy success!
+D:\迅雷下载\npy\camouflage.npy success!
+D:\迅雷下载\npy\campfire.npy success!
+D:\迅雷下载\npy\candle.npy success!
+D:\迅雷下载\npy\cannon.npy success!
+D:\迅雷下载\npy\canoe.npy success!
+D:\迅雷下载\npy\car.npy success!
+D:\迅雷下载\npy\carrot.npy success!
+D:\迅雷下载\npy\castle.npy success!
+D:\迅雷下载\npy\cat.npy success!
+D:\迅雷下载\npy\ceiling fan.npy success!
+D:\迅雷下载\npy\cell phone.npy success!
+D:\迅雷下载\npy\cello.npy success!
+D:\迅雷下载\npy\chair.npy success!
+D:\迅雷下载\npy\chandelier.npy success!
+D:\迅雷下载\npy\church.npy success!
+D:\迅雷下载\npy\circle.npy success!
+D:\迅雷下载\npy\clarinet.npy success!
+D:\迅雷下载\npy\clock.npy success!
+D:\迅雷下载\npy\cloud.npy success!
+D:\迅雷下载\npy\coffee cup.npy success!
+D:\迅雷下载\npy\compass.npy success!
+D:\迅雷下载\npy\computer.npy success!
+D:\迅雷下载\npy\cookie.npy success!
+D:\迅雷下载\npy\cooler.npy success!
+D:\迅雷下载\npy\couch.npy success!
+D:\迅雷下载\npy\cow.npy success!
+D:\迅雷下载\npy\crab.npy success!
+D:\迅雷下载\npy\crayon.npy success!
+D:\迅雷下载\npy\crocodile.npy success!
+D:\迅雷下载\npy\crown.npy success!
+D:\迅雷下载\npy\cruise ship.npy success!
+D:\迅雷下载\npy\cup.npy success!
+D:\迅雷下载\npy\diamond.npy success!
+D:\迅雷下载\npy\dishwasher.npy success!
+D:\迅雷下载\npy\diving board.npy success!
+D:\迅雷下载\npy\dog.npy success!
+D:\迅雷下载\npy\dolphin.npy success!
+D:\迅雷下载\npy\donut.npy success!
+D:\迅雷下载\npy\door.npy success!
+D:\迅雷下载\npy\dragon.npy success!
+D:\迅雷下载\npy\dresser.npy success!
+D:\迅雷下载\npy\drill.npy success!
+D:\迅雷下载\npy\drums.npy success!
+D:\迅雷下载\npy\duck.npy success!
+D:\迅雷下载\npy\dumbbell.npy success!
+D:\迅雷下载\npy\ear.npy success!
+D:\迅雷下载\npy\elbow.npy success!
+D:\迅雷下载\npy\elephant.npy success!
+D:\迅雷下载\npy\envelope.npy success!
+D:\迅雷下载\npy\eraser.npy success!
+D:\迅雷下载\npy\eye.npy success!
+D:\迅雷下载\npy\eyeglasses.npy success!
+D:\迅雷下载\npy\face.npy success!
+D:\迅雷下载\npy\fan.npy success!
+D:\迅雷下载\npy\feather.npy success!
+D:\迅雷下载\npy\fence.npy success!
+D:\迅雷下载\npy\finger.npy success!
+D:\迅雷下载\npy\fire hydrant.npy success!
+D:\迅雷下载\npy\fireplace.npy success!
+D:\迅雷下载\npy\firetruck.npy success!
+D:\迅雷下载\npy\fish.npy success!
+D:\迅雷下载\npy\flamingo.npy success!
+D:\迅雷下载\npy\flashlight.npy success!
+D:\迅雷下载\npy\flip flops.npy success!
+D:\迅雷下载\npy\floor lamp.npy success!
+D:\迅雷下载\npy\flower.npy success!
+D:\迅雷下载\npy\flying saucer.npy success!
+D:\迅雷下载\npy\foot.npy success!
+D:\迅雷下载\npy\fork.npy success!
+D:\迅雷下载\npy\frog.npy success!
+D:\迅雷下载\npy\frying pan.npy success!
+D:\迅雷下载\npy\garden hose.npy success!
+D:\迅雷下载\npy\garden.npy success!
+D:\迅雷下载\npy\giraffe.npy success!
+D:\迅雷下载\npy\goatee.npy success!
+D:\迅雷下载\npy\golf club.npy success!
+D:\迅雷下载\npy\grapes.npy success!
+D:\迅雷下载\npy\grass.npy success!
+D:\迅雷下载\npy\guitar.npy success!
+D:\迅雷下载\npy\hamburger.npy success!
+D:\迅雷下载\npy\hammer.npy success!
+D:\迅雷下载\npy\hand.npy success!
+D:\迅雷下载\npy\harp.npy success!
+D:\迅雷下载\npy\hat.npy success!
+D:\迅雷下载\npy\headphones.npy success!
+D:\迅雷下载\npy\hedgehog.npy success!
+D:\迅雷下载\npy\helicopter.npy success!
+D:\迅雷下载\npy\helmet.npy success!
+D:\迅雷下载\npy\hexagon.npy success!
+D:\迅雷下载\npy\hockey puck.npy success!
+D:\迅雷下载\npy\hockey stick.npy success!
+D:\迅雷下载\npy\horse.npy success!
+D:\迅雷下载\npy\hospital.npy success!
+D:\迅雷下载\npy\hot air balloon.npy success!
+D:\迅雷下载\npy\hot dog.npy success!
+D:\迅雷下载\npy\hot tub.npy success!
+D:\迅雷下载\npy\hourglass.npy success!
+D:\迅雷下载\npy\house plant.npy success!
+D:\迅雷下载\npy\house.npy success!
+D:\迅雷下载\npy\hurricane.npy success!
+D:\迅雷下载\npy\ice cream.npy success!
+D:\迅雷下载\npy\jacket.npy success!
+D:\迅雷下载\npy\jail.npy success!
+D:\迅雷下载\npy\kangaroo.npy success!
+D:\迅雷下载\npy\key.npy success!
+D:\迅雷下载\npy\keyboard.npy success!
+D:\迅雷下载\npy\knee.npy success!
+D:\迅雷下载\npy\knife.npy success!
+D:\迅雷下载\npy\ladder.npy success!
+D:\迅雷下载\npy\lantern.npy success!
+D:\迅雷下载\npy\laptop.npy success!
+D:\迅雷下载\npy\leaf.npy success!
+D:\迅雷下载\npy\leg.npy success!
+D:\迅雷下载\npy\light bulb.npy success!
+D:\迅雷下载\npy\lighter.npy success!
+D:\迅雷下载\npy\lighthouse.npy success!
+D:\迅雷下载\npy\lightning.npy success!
+D:\迅雷下载\npy\line.npy success!
+D:\迅雷下载\npy\lion.npy success!
+D:\迅雷下载\npy\lipstick.npy success!
+D:\迅雷下载\npy\lobster.npy success!
+D:\迅雷下载\npy\lollipop.npy success!
+D:\迅雷下载\npy\mailbox.npy success!
+D:\迅雷下载\npy\map.npy success!
+D:\迅雷下载\npy\marker.npy success!
+D:\迅雷下载\npy\matches.npy success!
+D:\迅雷下载\npy\megaphone.npy success!
+D:\迅雷下载\npy\mermaid.npy success!
+D:\迅雷下载\npy\microphone.npy success!
+D:\迅雷下载\npy\microwave.npy success!
+D:\迅雷下载\npy\monkey.npy success!
+D:\迅雷下载\npy\moon.npy success!
+D:\迅雷下载\npy\mosquito.npy success!
+D:\迅雷下载\npy\motorbike.npy success!
+D:\迅雷下载\npy\mountain.npy success!
+D:\迅雷下载\npy\mouse.npy success!
+D:\迅雷下载\npy\moustache.npy success!
+D:\迅雷下载\npy\mouth.npy success!
+D:\迅雷下载\npy\mug.npy success!
+D:\迅雷下载\npy\mushroom.npy success!
+D:\迅雷下载\npy\nail.npy success!
+D:\迅雷下载\npy\necklace.npy success!
+D:\迅雷下载\npy\nose.npy success!
+D:\迅雷下载\npy\ocean.npy success!
+D:\迅雷下载\npy\octagon.npy success!
+D:\迅雷下载\npy\octopus.npy success!
+D:\迅雷下载\npy\onion.npy success!
+D:\迅雷下载\npy\oven.npy success!
+D:\迅雷下载\npy\owl.npy success!
+D:\迅雷下载\npy\paint can.npy success!
+D:\迅雷下载\npy\paintbrush.npy success!
+D:\迅雷下载\npy\palm tree.npy success!
+D:\迅雷下载\npy\panda.npy success!
+D:\迅雷下载\npy\pants.npy success!
+D:\迅雷下载\npy\paper clip.npy success!
+D:\迅雷下载\npy\parachute.npy success!
+D:\迅雷下载\npy\parrot.npy success!
+D:\迅雷下载\npy\passport.npy success!
+D:\迅雷下载\npy\peanut.npy success!
+D:\迅雷下载\npy\pear.npy success!
+D:\迅雷下载\npy\peas.npy success!
+D:\迅雷下载\npy\pencil.npy success!
+D:\迅雷下载\npy\penguin.npy success!
+D:\迅雷下载\npy\piano.npy success!
+D:\迅雷下载\npy\pickup truck.npy success!
+D:\迅雷下载\npy\picture frame.npy success!
+D:\迅雷下载\npy\pig.npy success!
+D:\迅雷下载\npy\pillow.npy success!
+D:\迅雷下载\npy\pineapple.npy success!
+D:\迅雷下载\npy\pizza.npy success!
+D:\迅雷下载\npy\pliers.npy success!
+D:\迅雷下载\npy\police car.npy success!
+D:\迅雷下载\npy\pond.npy success!
+D:\迅雷下载\npy\pool.npy success!
+D:\迅雷下载\npy\popsicle.npy success!
+D:\迅雷下载\npy\postcard.npy success!
+D:\迅雷下载\npy\potato.npy success!
+D:\迅雷下载\npy\power outlet.npy success!
+D:\迅雷下载\npy\purse.npy success!
+D:\迅雷下载\npy\rabbit.npy success!
+D:\迅雷下载\npy\raccoon.npy success!
+D:\迅雷下载\npy\radio.npy success!
+D:\迅雷下载\npy\rain.npy success!
+D:\迅雷下载\npy\rainbow.npy success!
+D:\迅雷下载\npy\rake.npy success!
+D:\迅雷下载\npy\remote control.npy success!
+D:\迅雷下载\npy\rhinoceros.npy success!
+D:\迅雷下载\npy\rifle.npy success!
+D:\迅雷下载\npy\river.npy success!
+D:\迅雷下载\npy\roller coaster.npy success!
+D:\迅雷下载\npy\rollerskates.npy success!
+D:\迅雷下载\npy\sailboat.npy success!
+D:\迅雷下载\npy\sandwich.npy success!
+D:\迅雷下载\npy\saw.npy success!
+D:\迅雷下载\npy\saxophone.npy success!
+D:\迅雷下载\npy\school bus.npy success!
+D:\迅雷下载\npy\scissors.npy success!
+D:\迅雷下载\npy\scorpion.npy success!
+D:\迅雷下载\npy\screwdriver.npy success!
+D:\迅雷下载\npy\sea turtle.npy success!
+D:\迅雷下载\npy\see saw.npy success!
+D:\迅雷下载\npy\shark.npy success!
+D:\迅雷下载\npy\sheep.npy success!
+D:\迅雷下载\npy\shoe.npy success!
+D:\迅雷下载\npy\shorts.npy success!
+D:\迅雷下载\npy\shovel.npy success!
+D:\迅雷下载\npy\sink.npy success!
+D:\迅雷下载\npy\skateboard.npy success!
+D:\迅雷下载\npy\skull.npy success!
+D:\迅雷下载\npy\skyscraper.npy success!
+D:\迅雷下载\npy\sleeping bag.npy success!
+D:\迅雷下载\npy\smiley face.npy success!
+D:\迅雷下载\npy\snail.npy success!
+D:\迅雷下载\npy\snake.npy success!
+D:\迅雷下载\npy\snorkel.npy success!
+D:\迅雷下载\npy\snowflake.npy success!
+D:\迅雷下载\npy\snowman.npy success!
+D:\迅雷下载\npy\soccer ball.npy success!
+D:\迅雷下载\npy\sock.npy success!
+D:\迅雷下载\npy\speedboat.npy success!
+D:\迅雷下载\npy\spider.npy success!
+D:\迅雷下载\npy\spoon.npy success!
+D:\迅雷下载\npy\spreadsheet.npy success!
+D:\迅雷下载\npy\square.npy success!
+D:\迅雷下载\npy\squiggle.npy success!
+D:\迅雷下载\npy\squirrel.npy success!
+D:\迅雷下载\npy\stairs.npy success!
+D:\迅雷下载\npy\star.npy success!
+D:\迅雷下载\npy\steak.npy success!
+D:\迅雷下载\npy\stereo.npy success!
+D:\迅雷下载\npy\stethoscope.npy success!
+D:\迅雷下载\npy\stitches.npy success!
+D:\迅雷下载\npy\stop sign.npy success!
+D:\迅雷下载\npy\stove.npy success!
+D:\迅雷下载\npy\strawberry.npy success!
+D:\迅雷下载\npy\streetlight.npy success!
+D:\迅雷下载\npy\string bean.npy success!
+D:\迅雷下载\npy\submarine.npy success!
+D:\迅雷下载\npy\suitcase.npy success!
+D:\迅雷下载\npy\sun.npy success!
+D:\迅雷下载\npy\swan.npy success!
+D:\迅雷下载\npy\sweater.npy success!
+D:\迅雷下载\npy\swing set.npy success!
+D:\迅雷下载\npy\sword.npy success!
+D:\迅雷下载\npy\syringe.npy success!
+D:\迅雷下载\npy\t-shirt.npy success!
+D:\迅雷下载\npy\table.npy success!
+D:\迅雷下载\npy\teapot.npy success!
+D:\迅雷下载\npy\teddy-bear.npy success!
+D:\迅雷下载\npy\telephone.npy success!
+D:\迅雷下载\npy\television.npy success!
+D:\迅雷下载\npy\tennis racquet.npy success!
+D:\迅雷下载\npy\tent.npy success!
+D:\迅雷下载\npy\The Eiffel Tower.npy success!
+D:\迅雷下载\npy\The Great Wall of China.npy success!
+D:\迅雷下载\npy\The Mona Lisa.npy success!
+D:\迅雷下载\npy\tiger.npy success!
+D:\迅雷下载\npy\toaster.npy success!
+D:\迅雷下载\npy\toe.npy success!
+D:\迅雷下载\npy\toilet.npy success!
+D:\迅雷下载\npy\tooth.npy success!
+D:\迅雷下载\npy\toothbrush.npy success!
+D:\迅雷下载\npy\tornado.npy success!
+D:\迅雷下载\npy\tractor.npy success!
+D:\迅雷下载\npy\traffic light.npy success!
+D:\迅雷下载\npy\train.npy success!
+D:\迅雷下载\npy\tree.npy success!
+D:\迅雷下载\npy\triangle.npy success!
+D:\迅雷下载\npy\trombone.npy success!
+D:\迅雷下载\npy\truck.npy success!
+D:\迅雷下载\npy\trumpet.npy success!
+D:\迅雷下载\npy\umbrella.npy success!
+D:\迅雷下载\npy\underwear.npy success!
+D:\迅雷下载\npy\van.npy success!
+D:\迅雷下载\npy\vase.npy success!
+D:\迅雷下载\npy\violin.npy success!
+D:\迅雷下载\npy\washing machine.npy success!
+D:\迅雷下载\npy\watermelon.npy success!
+D:\迅雷下载\npy\waterslide.npy success!
+D:\迅雷下载\npy\whale.npy success!
+D:\迅雷下载\npy\wheel.npy success!
+D:\迅雷下载\npy\windmill.npy success!
+D:\迅雷下载\npy\wine bottle.npy success!
+D:\迅雷下载\npy\wine glass.npy success!
+D:\迅雷下载\npy\wristwatch.npy success!
+D:\迅雷下载\npy\yoga.npy success!
+D:\迅雷下载\npy\zebra.npy success!
+D:\迅雷下载\npy\zigzag.npy success!
+
+Process finished with exit code 0
